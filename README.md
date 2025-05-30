@@ -40,7 +40,7 @@
 
 ## MongoDB
 * MongoDB是强一致性的吗？
-* MongoDB能全文检索，那还要Elasticsearch干啥？
+* MongoDB能全文索引（Text Indexes），那还要Elasticsearch干啥？
 * 哪些场景适合使用MongoDB，哪些场景适合使用Elasticsearch？
 
 
