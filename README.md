@@ -1,5 +1,6 @@
 # JavaThousandQ（Java面试千问）
-* “一个好问题比一个好答案更重要”
+* 这里只有问题，没有答案
+* 一个好问题比一个好答案更重要
 * 这里都是实际在Java面试中出现过或者某些面试官YY的面试问题，很多问题没有标准答案，加上答案也有可能会过期，建议大家与时俱进去ChatGPT、DeepSeek等LLM找寻答案。
 
 # Java基础
@@ -31,6 +32,7 @@
 
 # NoSQL
 ## Redis
+* Redis Sorted Set是如何实现的？底层用的是什么数据结构？
 * Redis Cluster 和 Redis Sentinel 的区别是什么？各自有哪些适合使用的场景?
 
 ## Elasticsearch
