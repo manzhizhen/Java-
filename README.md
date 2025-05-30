@@ -15,6 +15,9 @@
 
 # 一致性算法
 
+## 通用
+* 为什么很多中间都要【选主】？（要选主的本质是什么？）
+
 ## Raft
 
 ## Gossip
@@ -36,6 +39,7 @@
 
 
 ## MongoDB
+* MongoDB是强一致性的吗？
 * MongoDB能全文检索，那还要Elasticsearch干啥？
 * 哪些场景适合使用MongoDB，哪些场景适合使用Elasticsearch？
 
