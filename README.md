@@ -30,8 +30,18 @@
 ## Redis
 * Redis Cluster 和 Redis Sentinel 的区别是什么？各自有哪些适合使用的场景?
 
+## Elasticsearch
+* Elasticsearch是强一致性的吗？
+* Elasticsearch能动态自动扩容吗？
 
 
 ## MongoDB
+* MongoDB能全文检索，那还要Elasticsearch干啥？
+* 哪些场景适合使用MongoDB，哪些场景适合使用Elasticsearch？
 
-## Elasticsearch
+
+
+
+
+
+# 云计算
