@@ -36,6 +36,7 @@
 ## Redis
 * Redis Sorted Set是如何实现的？底层用的是什么数据结构？
 * Redis Cluster 和 Redis Sentinel 的区别是什么？各自有哪些适合使用的场景?
+* Redis中Hash结构如果Field很多会带来哪些问题？
 
 ## Elasticsearch
 * Elasticsearch是强一致性的吗？
