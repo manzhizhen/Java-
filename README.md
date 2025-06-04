@@ -40,7 +40,7 @@
 
 ## Elasticsearch
 * Elasticsearch是强一致性的吗？
-* Elasticsearch能动态自动扩容吗？
+* Elasticsearch能自动扩容吗？
 
 
 ## MongoDB
