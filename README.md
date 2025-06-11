@@ -49,7 +49,7 @@
 ## Redis
 * Redis Sorted Set是如何实现的？底层用的是什么数据结构？
 * Redis集群部署有哪几种方式？
-* Redis Cluster 和 Redis Sentinel 的区别是什么？各自有哪些适合使用的场景?
+* Redis Cluster和Redis Sentinel的区别是什么？各自有哪些适合使用的场景?
 * Redis中Hash结构如果Field很多会带来哪些问题？
 * Redis的数据持久化有哪些方式？各自的特点是什么？
 * 如何用Redis来实现分布式锁？
@@ -76,6 +76,7 @@
 
 ## RocketMQ
 * RocketMQ的核心组件有哪些？各自的职责是什么？
+* RocketMQ消费消息有哪些模式？分别适合哪些场景来使用？
 * RocketMQ的Message Queue是什么？
 * RocketMQ的顺序消息如何实现？
 * RocketMQ合理设置Queue数量？
