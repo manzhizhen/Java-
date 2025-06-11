@@ -21,8 +21,15 @@
 ## 响应式编程
 * 响应式编程的定义是什么？
 
+
+# 数据结构
+## 布隆过滤器
+* 什么是布隆过滤器？它主要用来解决什么问题？
+
 # 网络 & IO
 * IO的线程模型有哪几种？
+* select、poll、epoll有什么区别和联系？
+* 多路复用有哪两种事件通知模式？水平触发和边缘触发分别适用于哪些场景？
 
 # 一致性算法
 
@@ -48,14 +55,20 @@
 
 # NoSQL
 ## Redis
+* Redis为什么是单线程的？为什么还能保持高性能？
+* Redis支持哪些数据结构？Bitmap是用来解决哪些场景的问题？
 * Redis Sorted Set是如何实现的？底层用的是什么数据结构？
 * Redis集群部署有哪几种方式？
 * Redis Cluster和Redis Sentinel的区别是什么？各自有哪些适合使用的场景?
+* Redis Cluster如何实现数据分片？槽位（Slot）的作用是什么？
 * Redis中Hash结构如果Field很多会带来哪些问题？
 * Redis的数据持久化有哪些方式？各自的特点是什么？
 * 如何用Redis来实现分布式锁？
 * Redisson的RLock实现原理是什么？
 * 如何使用Redis做缓存？
+* Redis与Memcached的区别？
+* Redis支持数据淘汰策略吗？支持哪几种？
+* 
 
 ## Elasticsearch
 * Elasticsearch和Lucene是什么关系？
