@@ -75,7 +75,11 @@
 ## Kafka
 
 ## RocketMQ
-* RocketMQ和Kafka在设计和实现上有什么区别？
+* RocketMQ的核心组件有哪些？各自的职责是什么？
+* RocketMQ的Message Queue是什么？
+* RocketMQ的顺序消息如何实现？
+* RocketMQ合理设置Queue数量？
+* RocketMQ与Kafka的核心区别是什么？
 * RocketMQ的事务消息的核心流程是什么？
 * Rocket如何保证“至少一次”？
 
