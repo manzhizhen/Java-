@@ -68,7 +68,7 @@
 * 如何使用Redis做缓存？
 * Redis与Memcached的区别？
 * Redis支持数据淘汰策略吗？支持哪几种？
-* 
+
 
 ## Elasticsearch
 * Elasticsearch和Lucene是什么关系？
